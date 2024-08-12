@@ -1,6 +1,6 @@
 ### Hi there 👋, Benedict Paul
 #### AWS Cloud Solution Architect | Android App Developer | Process Engineer | Student at Vellore Institute of Technology
-![AWS Cloud Solution Architect | Android App Developer | Process Engineer | Student at Vellore Institute of Technology](https://media.licdn.com/dms/image/v2/D5616AQGHMVLDcbjizg/profile-displaybackgroundimage-shrink_350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1722100376259?e=1729123200&v=beta&t=68gQNcNu2rDpGW8Idi_4XWwNe0lKxooKMGg1AQ2Q3kI)
+![AWS Cloud Solution Architect | Android App Developer | Process Engineer | Student at Vellore Institute of Technology](https://media.licdn.com/dms/image/v2/D5616AQGHMVLDcbjizg/profile-displaybackgroundimage-shrink_350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1722100376259?e=1729123200&v=beta&t=68gQNcNu2rDpGW8Idi_4XWwNe0lKxooKMGg1AQ2Q3kI)(https://github.com/benduBytes/benduBytes/blob/main/bannerDev.jpg)
 
 As a final-year Computer Science student at Vellore Institute of Technology, I specialize in machine learning. I excel at identifying user needs and translating them into seamless, functionality-packed designs. As a Certified Solution Architect and versatile Full-Stack Developer, I create efficient and secure architectures for transformative digital experiences.
 
