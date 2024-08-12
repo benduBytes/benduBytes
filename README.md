@@ -1,5 +1,9 @@
 ### Hi there 👋, Benedict Paul
 
+<div align="center">
+   <img width="400" src="https://github-readme-stats.vercel.app/api?username=hyamero&theme=tokyonight&show_icons=true&hide_border=true&count_private=true" />
+   <img width="425" src="https://github-readme-streak-stats.herokuapp.com/?user=hyamero&theme=tokyonight&hide_border=true" />
+</div>
 
 <p align="center">
   <img align='center' src='https://github.com/mayankchaudhary26/Cool-Readme-ideas/blob/master/data/octocat/daftpunktocat-guy.gif' width='300"'><br>
