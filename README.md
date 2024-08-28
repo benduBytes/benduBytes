@@ -1,9 +1,9 @@
 <div align="center">
 
 <div style="text-align: center; display: flex; justify-content: center; align-items: center;">
-  <h1><img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="30px" />
+  <h1><img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="25px" />
   &nbsp;<a href="https://drive.google.com/file/d/16yCK-weCDbLsQ-WX2Fa7usydMs7jQcRe/view?usp=sharing" style="font-size: 32px; font-weight: bold; text-decoration: none; color: black;">Benedict Paul</a>&nbsp;
-  <img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="30px" /></h1>
+  <img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="25px" /></h1>
 </div>
 
 <div align="center">
