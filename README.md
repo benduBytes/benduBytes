@@ -1,3 +1,10 @@
+<div align="center">
+
+<div style="text-align: center; display: flex; justify-content: center; align-items: center;">
+  <h1><img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="30px" />
+  &nbsp;<a href="https://drive.google.com/file/d/16yCK-weCDbLsQ-WX2Fa7usydMs7jQcRe/view?usp=sharing" style="font-size: 32px; font-weight: bold; text-decoration: none; color: black;">Benedict Paul</a>&nbsp;
+  <img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="30px" /></h1>
+</div>
 
 <div align="center">
    <img width="400" src="https://github-readme-stats.vercel.app/api?username=benduBytes&theme=tokyonight&show_icons=true&hide_border=true&count_private=true" />
@@ -13,6 +20,9 @@
    <img src="https://media3.giphy.com/media/kdFc8fubgS31b8DsVu/giphy.webp" width="100"><img src="https://i.giphy.com/media/IdyAQJVN2kVPNUrojM/200.webp" width="100">
 </p>
 <br>
+
+
+
 
 
 
