@@ -33,6 +33,15 @@
   <img src="https://leetcode-badge-showcase.vercel.app/api?username=benduBytes&theme=dark" alt="LeetCode Badges" style="height: 400px; width: auto; margin-left: 20px;" />
 </p>
 
+<!--
+<h2 align="center">Badges<h2>  
+<p align="center">
+  <img src="https://github.com/benduBytes/benduBytes/blob/main/badges/cybersecurity-essentials.png" width="150" alt="Cybersecurity Essentials"/>
+  <img src="https://github.com/benduBytes/benduBytes/blob/main/badges/JAVA8OJA.jpg" width="150" alt="JAVA 8 OJA"/>
+  <img src="https://github.com/benduBytes/benduBytes/blob/main/badges/aws-certified-solutions-architect-associate.png" width="150" alt="AWS Certification"/>
+</p>
+-->
+
 
 
 
