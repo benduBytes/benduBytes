@@ -27,6 +27,7 @@
   <a href="https://leetcode.com/benduBytes/" target="_blank"><img align="center" src="https://leetcode.com/static/images/badges/2024/gif/2024-08.gif" alt="jyot" height="200" width="200" /></a>
   <a href="https://leetcode.com/benduBytes/" target="_blank"><img align="center" src="https://assets.leetcode.com/static_assets/marketing/2024-50.gif" alt="jyot" height="200" width="200" /></a>
   <a href="https://leetcode.com/benduBytes/" target="_blank"><img align="center" src="https://leetcode.com/static/images/badges/2024/gif/2024-09.gif" alt="jyot" height="200" width="200" /></a>
+  <a href="https://leetcode.com/benduBytes/" target="_blank"><img align="center" src="https://leetcode.com/static/images/badges/2024/gif/2024-10.gif" alt="jyot" height="200" width="200" /></a>
 </p>
 <p align="center" style="display: flex; justify-content: center; align-items: flex-start;">
   <img src="https://leetcard.jacoblin.cool/benduBytes?theme=dark&font=Nunito&ext=activity" style="height: 400px; width: auto;" />  
