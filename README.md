@@ -31,7 +31,7 @@
 </p>
 <p align="center" style="display: flex; justify-content: center; align-items: flex-start;">
   <img src="https://leetcard.jacoblin.cool/benduBytes?theme=dark&font=Nunito&ext=activity" style="height: 400px; width: auto;" />  
-  <img src="https://leetcode-badge-showcase.vercel.app/api?username=benduBytes&theme=dark" alt="LeetCode Badges" style="height: 400px; width: auto; margin-left: 10px;" />
+  <img src="https://leetcode-badge-showcase.vercel.app/api?username=benduBytes&theme=dark" alt="LeetCode Badges" style="height: 400px; width: auto; margin-left: 5px;" />
 </p>
 
 <!--
