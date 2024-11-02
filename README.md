@@ -32,7 +32,7 @@
 <div align="center">
   <h2>Leetcode Info</h2>
   <div style="display: flex; justify-content: center; align-items: flex-start;">
-    <img src="https://leetcard.jacoblin.cool/benduBytes?theme=dark&font=Nunito&ext=activity" style="height: 400px; width: 500px; object-fit: cover; margin-right: 0.5px;" /> <!-- Reduced margin-right -->
+    <img src="https://leetcard.jacoblin.cool/benduBytes?theme=dark&font=Nunito&ext=activity" style="height: 400px; width: 400px; object-fit: cover; margin-right: 0.1px;" /> <!-- Reduced margin-right -->
     <img src="https://leetcode-badge-showcase.vercel.app/api?username=benduBytes&theme=dark" alt="LeetCode Badges" style="height: 400px; width: 400px; object-fit: cover;" />
   </div>
 </div>
