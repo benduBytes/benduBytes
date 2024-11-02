@@ -13,7 +13,7 @@
 </div>
 
 <p align="center">
-   <img align='center' src='https://github.com/benduBytes/benduBytes/blob/main/gif/benduGif5.gif' width='300"'><br>
+   <img align='center' src='https://github.com/benduBytes/benduBytes/blob/main/gif/benduGif5.gif' width='500'><br>
    <img src="https://media3.giphy.com/media/ln7z2eWriiQAllfVcn/200w.webp" width="100">
    <img src="https://i.giphy.com/media/LMt9638dO8dftAjtco/200.webp" width="100">
    <img src="https://user-images.githubusercontent.com/74038190/212281763-e6ecd7ef-c4aa-45b6-a97c-f33f6bb592bd.gif" width="100">
@@ -28,11 +28,11 @@
   <a href="https://leetcode.com/benduBytes/" target="_blank"><img align="center" src="https://assets.leetcode.com/static_assets/marketing/2024-50.gif" alt="jyot" height="200" width="200" /></a>
   <a href="https://leetcode.com/benduBytes/" target="_blank"><img align="center" src="https://leetcode.com/static/images/badges/2024/gif/2024-09.gif" alt="jyot" height="200" width="200" /></a>
   <a href="https://leetcode.com/benduBytes/" target="_blank"><img align="center" src="https://leetcode.com/static/images/badges/2024/gif/2024-10.gif" alt="jyot" height="200" width="200" /></a>
-  
 </p>
+  
 <p align="center" style="display: flex; justify-content: center; align-items: flex-start;">
-  <img src="https://leetcard.jacoblin.cool/benduBytes?theme=dark&font=Nunito&ext=activity" style="height: 400px; width: auto;" />  
-  <img src="https://leetcode-badge-showcase.vercel.app/api?username=benduBytes&theme=dark" alt="LeetCode Badges" style="height: 400px; width: auto; margin-left: 1px;" />
+  <img src="https://leetcard.jacoblin.cool/benduBytes?theme=dark&font=Nunito&ext=activity" style="height: 300px; width: auto;" />  
+  <img src="https://leetcode-badge-showcase.vercel.app/api?username=benduBytes&theme=dark" alt="LeetCode Badges" style="height: 300px; width: auto; margin-left: 0px;" />
 </p>
 
 <!--
