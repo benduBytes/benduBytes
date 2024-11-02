@@ -31,8 +31,8 @@
   
 <div align="center">
   <div style="display: flex; justify-content: center; align-items: flex-start;">
-    <img src="https://leetcard.jacoblin.cool/benduBytes?theme=dark&font=Nunito&ext=activity" style="height: 450px; width: 450px; object-fit: cover; margin-right: 0.1px;" /> <!-- Reduced margin-right -->
-    <img src="https://leetcode-badge-showcase.vercel.app/api?username=benduBytes&theme=dark" alt="LeetCode Badges" style="height: 400px; width: 400px; object-fit: cover;" />
+    <img src="https://leetcard.jacoblin.cool/benduBytes?theme=dark&font=Nunito&ext=activity" style="height: 400px; width: 400px; object-fit: cover; margin-right: 0.1px;" /> <!-- Reduced margin-right -->
+    <img src="https://leetcode-badge-showcase.vercel.app/api?username=benduBytes&theme=dark" alt="LeetCode Badges" style="height: 365px; width: 375px; object-fit: cover;" />
   </div>
 </div>
 
