@@ -35,6 +35,10 @@
   <img src="https://leetcode-badge-showcase.vercel.app/api?username=benduBytes&theme=dark" alt="LeetCode Badges" style="height: 350px; width: auto; margin-left: 0px;" />
 </p>
 
+<p align="center">
+  <a href="https://leetcode.com/benduBytes/" target="_blank"><img align="center" src="https://leetcode.com/static/images/badges/2024/gif/2024-11.gif" alt="jyot" height="200" width="200" /></a>
+</p>
+
 <!--
 <h2 align="center">Badges<h2>  
 <p align="center">
