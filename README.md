@@ -13,7 +13,7 @@
 </div>
 
 <p align="center">
-   <img align='center' src='https://github.com/benduBytes/benduBytes/blob/main/gif/benduGif3.gif' width='500'><br>
+   <img align='center' src='https://github.com/benduBytes/benduBytes/blob/main/gif/benduGif3.gif' width='350'><br>
    <img src="https://media3.giphy.com/media/ln7z2eWriiQAllfVcn/200w.webp" width="100">
    <img src="https://i.giphy.com/media/LMt9638dO8dftAjtco/200.webp" width="100">
    <img src="https://user-images.githubusercontent.com/74038190/212281763-e6ecd7ef-c4aa-45b6-a97c-f33f6bb592bd.gif" width="100">
@@ -24,15 +24,15 @@
 
 <h2 align="center">AWS</h2>  
 <p align="center">
-  <a href="https://www.credly.com/badges/ff13a9bf-0475-4577-b68e-ef75d8cffd24/public_url" target="_blank"><img align="center" src="https://github.com/benduBytes/benduBytes/blob/main/badges/AWS-Certified-Developer-Associate_badge.png" alt="AWS Certified Developer" height="200" width="200" /></a>
-  <a href="https://www.credly.com/badges/ff13a9bf-0475-4577-b68e-ef75d8cffd24/public_url" target="_blank"><img align="center" src="https://github.com/benduBytes/benduBytes/blob/main/badges/AWS-Certified-Solutions-Architect-Associate_badge.jpg" alt="AWS Certified Solutions Architect" height="200" width="200" /></a>
+  <a href="https://www.credly.com/badges/ff13a9bf-0475-4577-b68e-ef75d8cffd24/public_url" target="_blank"><img align="center" src="https://github.com/benduBytes/benduBytes/blob/main/badges/AWS-Certified-Developer-Associate_badge.png" alt="AWS Certified Developer" height="150" width="150" /></a>
+  <a href="https://www.credly.com/badges/ff13a9bf-0475-4577-b68e-ef75d8cffd24/public_url" target="_blank"><img align="center" src="https://github.com/benduBytes/benduBytes/blob/main/badges/AWS-Certified-Solutions-Architect-Associate_badge.jpg" alt="AWS Certified Solutions Architect" height="150" width="150" /></a>
 </p>
 
 <h2 align="center">Leetcode Info</h2>  
 <p align="center">
-  <a href="https://leetcode.com/benduBytes/" target="_blank"><img align="center" src="https://assets.leetcode.com/static_assets/marketing/2024-50.gif" alt="jyot" height="200" width="200" /></a>
-  <a href="https://leetcode.com/benduBytes/" target="_blank"><img align="center" src='https://github.com/benduBytes/benduBytes/blob/main/gif/Top_SQL_50.gif' alt="jyot" height="200" width="200" /></a>
-  <a href="https://leetcode.com/benduBytes/" target="_blank"><img align="center" src="https://assets.leetcode.com/static_assets/marketing/2024-100.gif" alt="jyot" height="200" width="200" /></a>
+  <a href="https://leetcode.com/benduBytes/" target="_blank"><img align="center" src="https://assets.leetcode.com/static_assets/marketing/2024-50.gif" alt="jyot" height="150" width="150" /></a>
+  <a href="https://leetcode.com/benduBytes/" target="_blank"><img align="center" src='https://github.com/benduBytes/benduBytes/blob/main/gif/Top_SQL_50.gif' alt="jyot" height="150" width="150" /></a>
+  <a href="https://leetcode.com/benduBytes/" target="_blank"><img align="center" src="https://assets.leetcode.com/static_assets/marketing/2024-100.gif" alt="jyot" height="150" width="150" /></a>
 </p>
   
 <p align="center" style="display: flex; justify-content: center; align-items: flex-start;">
@@ -41,10 +41,10 @@
 </p>
 
 <p align="center">
-  <a href="https://leetcode.com/benduBytes/" target="_blank"><img align="center" src="https://leetcode.com/static/images/badges/2024/gif/2024-08.gif" alt="jyot" height="200" width="200" /></a>
-  <a href="https://leetcode.com/benduBytes/" target="_blank"><img align="center" src="https://leetcode.com/static/images/badges/2024/gif/2024-09.gif" alt="jyot" height="200" width="200" /></a>
-  <a href="https://leetcode.com/benduBytes/" target="_blank"><img align="center" src="https://leetcode.com/static/images/badges/2024/gif/2024-10.gif" alt="jyot" height="200" width="200" /></a>
-  <a href="https://leetcode.com/benduBytes/" target="_blank"><img align="center" src="https://leetcode.com/static/images/badges/2024/gif/2024-11.gif" alt="jyot" height="200" width="200" /></a>
+  <a href="https://leetcode.com/benduBytes/" target="_blank"><img align="center" src="https://leetcode.com/static/images/badges/2024/gif/2024-08.gif" alt="jyot" height="150" width="150" /></a>
+  <a href="https://leetcode.com/benduBytes/" target="_blank"><img align="center" src="https://leetcode.com/static/images/badges/2024/gif/2024-09.gif" alt="jyot" height="150" width="150" /></a>
+  <a href="https://leetcode.com/benduBytes/" target="_blank"><img align="center" src="https://leetcode.com/static/images/badges/2024/gif/2024-10.gif" alt="jyot" height="150" width="150" /></a>
+  <a href="https://leetcode.com/benduBytes/" target="_blank"><img align="center" src="https://leetcode.com/static/images/badges/2024/gif/2024-11.gif" alt="jyot" height="150" width="150" /></a>
 </p>
 
 <!--
