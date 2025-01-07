@@ -22,13 +22,13 @@
 </p>
 <br>
 
-<h2 align="center">AWS<h2>  
+<h2 align="center">AWS</h2>  
 <p align="center">
-  <a href="https://www.credly.com/badges/ff13a9bf-0475-4577-b68e-ef75d8cffd24/public_url" target="_blank"><img align="center" src="https://github.com/benduBytes/benduBytes/blob/main/badges/AWS-Certified-Developer-Associate_badge.png" alt="jyot" height="200" width="200" /></a>
-  <a href="https://www.credly.com/badges/ff13a9bf-0475-4577-b68e-ef75d8cffd24/public_url" target="_blank"><img align="center" src="https://github.com/benduBytes/benduBytes/blob/main/badges/AWS-Certified-Solutions-Architect-Associate_badge.jpg" alt="jyot" height="200" width="200" /></a>
+  <a href="https://www.credly.com/badges/ff13a9bf-0475-4577-b68e-ef75d8cffd24/public_url" target="_blank"><img align="center" src="https://github.com/benduBytes/benduBytes/blob/main/badges/AWS-Certified-Developer-Associate_badge.png" alt="AWS Certified Developer" height="200" width="200" /></a>
+  <a href="https://www.credly.com/badges/ff13a9bf-0475-4577-b68e-ef75d8cffd24/public_url" target="_blank"><img align="center" src="https://github.com/benduBytes/benduBytes/blob/main/badges/AWS-Certified-Solutions-Architect-Associate_badge.jpg" alt="AWS Certified Solutions Architect" height="200" width="200" /></a>
 </p>
-  
-<h2 align="center">Leetcode Info<h2>  
+
+<h2 align="center">Leetcode Info</h2>  
 <p align="center">
   <a href="https://leetcode.com/benduBytes/" target="_blank"><img align="center" src="https://assets.leetcode.com/static_assets/marketing/2024-50.gif" alt="jyot" height="200" width="200" /></a>
   <a href="https://leetcode.com/benduBytes/" target="_blank"><img align="center" src='https://github.com/benduBytes/benduBytes/blob/main/gif/Top_SQL_50.gif' alt="jyot" height="200" width="200" /></a>
