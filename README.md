@@ -55,6 +55,7 @@
   <img src="https://github.com/benduBytes/benduBytes/blob/main/badges/aws-certified-solutions-architect-associate.png" width="150" alt="AWS Certification"/>
 </p>
 -->
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=benduBytes&label=Profile%20views&color=0e75b6&style=flat" alt="benduBytes" /> </p>
 
 
 
